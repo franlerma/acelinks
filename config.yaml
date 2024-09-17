@@ -1,0 +1,16 @@
+sites:
+  - name: elplan96
+    url: https://sites.google.com/view/elplandeportes/inicio
+    queries :
+      - 1 :
+        query:
+          tag: a
+          class_: FKF6mc
+        deep_search: True
+  # - name: elplandeportes
+  #   url: https://elplan96.github.io/hook/
+  #   queries :
+  #     - 1 :
+  #       query:
+  #         tag: a
+  #         rel: noopener
